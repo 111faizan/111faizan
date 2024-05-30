@@ -7,8 +7,7 @@
 </h1>
 
 I’m Faizan Ahmad, a passionate web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , creative coder, and tech enthusiast. I specialize in crafting seamless user experiences and building dynamic web applications. My mission is to translate innovative ideas into pixel-perfect, blazing-fast websites and applications.
-here is my portfolio webpage 
-
+here is my portfolio webpage https://my-portfolio-faizanahmad.pages.dev/
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
