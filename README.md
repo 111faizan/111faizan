@@ -1,3 +1,4 @@
+![Black Technology LinkedIn Banner](https://github.com/111faizan/111faizan/assets/95275307/c7fcc145-cf33-4e46-9dea-4156469ae120)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
