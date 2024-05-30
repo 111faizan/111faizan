@@ -1,8 +1,6 @@
 ![Black Technology LinkedIn Banner](https://github.com/111faizan/111faizan/assets/95275307/c7fcc145-cf33-4e46-9dea-4156469ae120)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -15,6 +13,9 @@ I’m Faizan Ahmad, a passionate web developer <img src="https://media.giphy.com
 - :seedling: Exploring Technical Content Writing.
 
   ---
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
